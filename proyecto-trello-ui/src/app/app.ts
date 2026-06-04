@@ -9,6 +9,7 @@ import { RouterOutlet } from '@angular/router';
   imports: [CommonModule, RouterOutlet],
   templateUrl: './app.html'
 })
+
 export class App {
   private http = inject(HttpClient);
   data$ = this.http.get('http://localhost:5158/weatherforecast');
