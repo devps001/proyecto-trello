@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("proyecto-trello-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13171f5290a624fd24d75053f5a5029e82087a5e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16844a9b387d7251782a1f59dcd7cdf332fce3fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("proyecto-trello-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("proyecto-trello-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

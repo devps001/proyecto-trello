@@ -32,3 +32,12 @@ F:\proyecto-trello\proyecto-trello-api\obj\Debug\net10.0\refint\proyecto-trello-
 F:\proyecto-trello\proyecto-trello-api\obj\Debug\net10.0\proyecto-trello-api.pdb
 F:\proyecto-trello\proyecto-trello-api\obj\Debug\net10.0\proyecto-trello-api.genruntimeconfig.cache
 F:\proyecto-trello\proyecto-trello-api\obj\Debug\net10.0\ref\proyecto-trello-api.dll
+F:\proyecto-trello\proyecto-trello-api\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\proyecto-trello\proyecto-trello-api\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+F:\proyecto-trello\proyecto-trello-api\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+F:\proyecto-trello\proyecto-trello-api\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\proyecto-trello\proyecto-trello-api\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+F:\proyecto-trello\proyecto-trello-api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+F:\proyecto-trello\proyecto-trello-api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\proyecto-trello\proyecto-trello-api\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+F:\proyecto-trello\proyecto-trello-api\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
